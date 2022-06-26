@@ -1,4 +1,3 @@
-from audioop import reverse
 from ib_insync import * 
 
 import pandas as pd
